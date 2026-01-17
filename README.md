@@ -52,22 +52,24 @@ This app uses the OMDb API for movie data. You need to obtain a free API key:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Suezcanaal/movie_app_test
 cd movie_app_test
 ```
 
 ### Step 2: Install Flutter Dependencies
 ```bash
+install dependencies
 flutter pub get
 
 Run the app:
 flutter run
-Connect a device or start an emulator.
+
+Connect a device or start an emulator and use the app.
 ```
 
 
 
-
+**##Development Details**
 
 ### Step 3: Set Up Development Environment
 
