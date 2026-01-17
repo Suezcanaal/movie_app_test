@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import '../models/movie.dart';
 
 class ApiService {
-  static const String apiKey = '4b943484'; // YOUR KEY
+  static const String apiKey = '4b943484'; // This is actual key ( used only for Assignment purpose )
   static const String baseUrl = 'http://www.omdbapi.com';
 
   // OMDb requires a search query. We'll use "Marvel" as the default landing page content.
