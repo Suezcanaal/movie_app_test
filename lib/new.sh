@@ -1,0 +1,3 @@
+    sh
+    flutter devices
+    
