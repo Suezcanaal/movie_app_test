@@ -59,7 +59,15 @@ cd movie_app_test
 ### Step 2: Install Flutter Dependencies
 ```bash
 flutter pub get
+
+Run the app:
+flutter run
+Connect a device or start an emulator.
 ```
+
+
+
+
 
 ### Step 3: Set Up Development Environment
 
